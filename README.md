@@ -2,7 +2,6 @@
 
 A modern and feature-rich e-commerce mobile application built with Flutter, offering a seamless shopping experience across iOS and Android platforms.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTheAlphamerc%2Fflutter_ecommerce_app&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![Dart CI](https://github.com/TheAlphamerc/flutter_ecommerce_app/workflows/Dart%20CI/badge.svg) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Thealphamerc/flutter_ecommerce_app)   ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fthealphamerc) [![GitHub stars](https://img.shields.io/github/stars/Thealphamerc/flutter_ecommerce_app?style=social)](https://github.com/login?return_to=%2FTheAlphamerc%flutter_ecommerce_app) ![GitHub forks](https://img.shields.io/github/forks/TheAlphamerc/flutter_ecommerce_app?style=social) 
 
 ## Overview
 
