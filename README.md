@@ -58,8 +58,8 @@ This Flutter e-commerce app provides a complete shopping experience with feature
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/TheAlphamerc/flutter_ecommerce_app.git
-cd flutter_ecommerce_app
+git clone https://github.com/zetaver/ecommerce_app_flutter.git
+cd ecommerce_app_flutter
 ```
 
 2. **Install dependencies**
